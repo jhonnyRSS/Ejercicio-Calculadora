@@ -1,0 +1,46 @@
+div{
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid black;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 1px 1px 1px 1px;
+    background-color: rgba(0, 255, 255, 0.562);
+}
+
+div > div{
+    border: 1px solid blue;
+    border-radius: 25px;
+    box-shadow: 2px 2px 2px 2px;
+    background-color: rgb(134, 140, 218);
+    padding: 10px;
+    margin: 10px;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    padding: 50px;
+    margin: 50px;
+    background-image:url(../img/Gemini_Generated_Image_mdk0lemdk0lemdk0.png);
+    
+
+
+}
+h1{
+    text-align: center;
+    border: 5px double palevioletred;
+    color:rgba(0, 47, 255, 0.774);
+    border-radius: 50px;
+    background-color: rgba(240, 248, 255, 0.63);
+
+
+}
+
+.btn01{
+    color: rgb(137, 11, 255);
+    border-radius: 40%;
+    border: 1px solid ;
+    background-color: rgba(43, 255, 0, 0.329);
+    font-size: 25px;
+    box-shadow: 1px 1px 1px 2px;
+}
